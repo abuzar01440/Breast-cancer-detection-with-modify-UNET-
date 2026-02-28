@@ -1,4 +1,4 @@
-# 🎀 Breast Cancer Detection with U-Net Deep Learning 🧠💻
+# 🎀 Breast Cancer Detection with MODIFY U-Net++ Deep Learning 🧠💻
 
 Welcome to my project! 👋 I am Abuzar Shahid (@abuzar01440), a Data Scientist and Machine Learning Engineer. This project focuses on a very important topic in Medical Imaging: Finding breast tumors in ultrasound images using Deep Learning! 🏥✨
 
@@ -40,7 +40,7 @@ Testing Data (15%): Kept a secret from the model to test how smart it became lat
 
 # 4️⃣ Building the Modify U-Net++ Model 🏗️🧠
 
-This is the heart of the project! The U-Net looks like a giant "U" shape. It has three main parts:
+This is the heart of the project! The U-Net++ looks like a giant "U" shape. It has three main parts:
 
 📉 The Encoder (Going Down): It uses Conv2D and MaxPooling2D layers to shrink the image and find important patterns (like edges and shapes).
     -  Used Elu activation function
